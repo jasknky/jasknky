@@ -1,0 +1,6 @@
+Création d'une base de données postgresql et d'un utilisateur
+https://devstory.net/10713/installer-la-base-de-donnees-postgresql-sur-windows
+- téléchargement de l'installeur  : https://www.postgresql.org/download/
+
+mdp admin postgresql : koutio404
+mdp pgAdmin : koutio404
