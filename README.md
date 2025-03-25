@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi  👋
 
 **💻 Chargé de projets informatiques | Master MIAGE | Développeur** 
 
